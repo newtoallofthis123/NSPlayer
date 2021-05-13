@@ -1,2 +1,2 @@
 # NSPlayer
-A simplw music player written in python
+A simple music player written in python
