@@ -6,9 +6,9 @@ NSPlayer uses pygame module to play songs. The graphic User Interface is written
 
 ![NSPlayer](https://github.com/newtoallofthis123/NSPlayer/blob/main/Assets/NSPlayer.png)
 
-I wrote NSPlayer on my journey to learn Python. You can view all my python projects at [`GitHub`]('https://github.com/newtoallofthis123/python_projects')
+I wrote NSPlayer on my journey to learn Python. You can view all my python projects at [`GitHub`](https://github.com/newtoallofthis123/python_projects)
 
-NSPlayer is license under the [`MIT License`](https://mit-license.org/) which makes it open source. You are free to use it however you wish.
+NSPlayer is license under the [MIT License](https://mit-license.org/) which makes it open source. You are free to use it however you wish.
 
 # Safe:
 ### This program is completely safe. It was created using pyinstaller.
@@ -24,14 +24,14 @@ NSPlayer comes in 4 forms:
 
 # Install:
 
-. [NSPlayer_setup.exe](https://github.com/newtoallofthis123/NSPlayer/releases/download/v.0.1/NSPlayer_setup.exe) : A simple setup.exe file  
-. [NSPlayer.zip](https://github.com/newtoallofthis123/NSPlayer/releases/download/v.0.1/NSPlayer.zip) : A Zip file with all files  
-. [NSPlayer.exe](https://github.com/newtoallofthis123/NSPlayer/releases/download/v.0.1/NSPlayer.exe) : A standalone, portable insatllation  
-. [NSPlayer.py](https://github.com/newtoallofthis123/NSPlayer/releases/download/v.0.1/NSPlayer.py) : A Raw Python file  
-. [NSPLayer_py.zip](https://github.com/newtoallofthis123/NSPlayer/releases/download/v.0.1/NSPlayer_py.zip) : A Raw Python file with all assets included  
-. [Source Code in Zip](https://github.com/newtoallofthis123/NSPlayer/archive/refs/tags/v.0.1.zip) : A zip file with the source code  
-. [Source Code in tar.gz](https://github.com/newtoallofthis123/NSPlayer/archive/refs/tags/v.0.1.tar.gz) : A tar.gz file with the source code  
-. [Releases](https://github.com/newtoallofthis123/NSPlayer/releases) : Latest Releases page
+. [`NSPlayer_setup.exe`](https://github.com/newtoallofthis123/NSPlayer/releases/download/v.0.1/NSPlayer_setup.exe) : A simple setup.exe file  
+. [`NSPlayer.zip`](https://github.com/newtoallofthis123/NSPlayer/releases/download/v.0.1/NSPlayer.zip) : A Zip file with all files  
+. [`NSPlayer.exe`](https://github.com/newtoallofthis123/NSPlayer/releases/download/v.0.1/NSPlayer.exe) : A standalone, portable insatllation  
+. [`NSPlayer.py`](https://github.com/newtoallofthis123/NSPlayer/releases/download/v.0.1/NSPlayer.py) : A Raw Python file  
+. [`NSPLayer_py.zip`](https://github.com/newtoallofthis123/NSPlayer/releases/download/v.0.1/NSPlayer_py.zip) : A Raw Python file with all assets included  
+. [`Source Code in Zip`](https://github.com/newtoallofthis123/NSPlayer/archive/refs/tags/v.0.1.zip) : A zip file with the source code  
+. [`Source Code in tar.gz`](https://github.com/newtoallofthis123/NSPlayer/archive/refs/tags/v.0.1.tar.gz) : A tar.gz file with the source code  
+. [`Releases`](https://github.com/newtoallofthis123/NSPlayer/releases) : Latest Releases page
 
 # Uses:
 
@@ -44,10 +44,10 @@ Hence, this can be used to learn python and makes NSPlayer a Beginner friendly p
 
 # Dependencies:
 
-If you decide to use the **Zip** file or the **Standalone** file or the **Setup.exe** file, it doesn't matter if python is not installed on your computer (Although I recommend downloading it from the [`Python Website`](https://python.org)). The **Raw Python** python file however needs to have python and a few python dependencies installed, namely:  
+If you decide to use the **Zip** file or the **Standalone** file or the **Setup.exe** file, it doesn't matter if python is not installed on your computer (Although I recommend downloading it from the [Python Website](https://python.org)). The **Raw Python** python file however needs to have python and a few python dependencies installed, namely:  
 
 Required Dependencies:
-[`pygame`](https://www.pygame.org/), [`tkinter`](https://docs.python.org/3/library/tkinter.html) (tkinter is installed by deflaut)
+[pygame](https://www.pygame.org/), [tkinter](https://docs.python.org/3/library/tkinter.html) (tkinter is installed by deflaut)
 
 `pip install pygame`  
 `pip install tkinter`
