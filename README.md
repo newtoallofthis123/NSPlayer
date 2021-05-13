@@ -32,9 +32,9 @@ If you decide to use the **Zip** file or the **Standalone** file or the **Setup.
 Required Dependencies:
 [pygame](https://www.pygame.org/), [tkinter](https://docs.python.org/3/library/tkinter.html) (tkinter is installed by deflaut)
 
-`pip install pygame`  
-`pip install tkinter`
-
+     pip install pygame  
+     pip install tkinter
+                   
 
 # Support:
 
@@ -42,5 +42,4 @@ For now the biggest way you can support me is to share this project with your fr
 Also leave a star  
 Any issues, please please report them at [`GitHub Issues`]('https://github.com/newtoallofthis123/NSPlayer/issues')
 
-                         NoobScience            
-python
+# **By NoobScience**
