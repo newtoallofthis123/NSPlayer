@@ -1,0 +1,9 @@
+Troubleshoot :
+
+1. Icon : change the deflaut path for the NSPlayer.py file near line 51
+
+2. Pygame : Install pygame by pip install pygame
+
+3. Make a seperate folder having all your mp3 files
+
+4. This shall be fixed in v.1.1

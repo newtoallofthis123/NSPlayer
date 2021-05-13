@@ -1,0 +1,11 @@
+NSPlayer
+
+By : NoobScience https://gtihub.com/newtoallofthis123
+
+Projects used : python, pygame, tkinter
+
+Dependencies used : pygame, tkinter, mutagen.id3, os, webbrowser
+
+Help by : shadowguy123 https://github.com/shadowguy123
+
+

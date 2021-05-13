@@ -21,20 +21,20 @@ NSPlayer comes in 4 forms:
 NSPlayer is a compact mp3 player.  
 It can be used for a easily playing music when you are low on system resources.  
 It takes minimal system resources and has good functionality too.
-![Minimal System Resources](https://github.com/newtoallofthis123/NSPlayer/blob/main/Assets/Sys_Resources.png)
+![Minimal System Resources]('https://github.com/newtoallofthis123/NSPlayer/blob/main/Assets/Sys_Resources.png')  
 The Raw python file has step by step explanation of all processes.  
 Hence, this can be used to learn python and makes NSPlayer a Beginner friendly project
 
 # Dependencies:
 
-If you decide to use the **Zip** file or the **Standalone** file or the **Setup.exe** file, it doesn't matter if python is not installed on your computer (Although I recommend downloading it from the [Python Website](https://python.org)). The **Raw Python** python file however needs to have python and a few python dependencies installed, namely:  
+If you decide to use the **Zip** file or the **Standalone** file or the **Setup.exe** file, it doesn't matter if python is not installed on your computer (Although I recommend downloading it from the [`Python Website`](https://python.org)). The **Raw Python** python file however needs to have python and a few python dependencies installed, namely:  
 
 Required Dependencies:
-[pygame](https://www.pygame.org/), [tkinter](https://docs.python.org/3/library/tkinter.html) (tkinter is installed by deflaut)
+[`pygame`](https://www.pygame.org/), [`tkinter`](https://docs.python.org/3/library/tkinter.html) (tkinter is installed by deflaut)
 
-     pip install pygame  
-     pip install tkinter
-                   
+`pip install pygame`  
+`pip install tkinter`
+
 
 # Support:
 
@@ -42,4 +42,4 @@ For now the biggest way you can support me is to share this project with your fr
 Also leave a star  
 Any issues, please please report them at [`GitHub Issues`]('https://github.com/newtoallofthis123/NSPlayer/issues')
 
-# **By NoobScience**
+                         NoobScience            

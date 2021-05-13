@@ -1,0 +1,9 @@
+Errors:
+
+1. Icon : The NSPlayer icon sometimes crashes due to the unavailability of the icon on your local computer
+
+2. Pygame : Be sure to install pygame
+
+3. If all the file in a folder are not mp3, the dialoge crashes
+
+4. It only selects folders, not files
