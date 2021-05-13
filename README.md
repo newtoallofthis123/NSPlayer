@@ -23,7 +23,7 @@ NSPlayer comes in 4 forms:
 NSPlayer is a compact mp3 player.  
 It can be used for a easily playing music when you are low on system resources.  
 It takes minimal system resources and has good functionality too.
-![Minimal System Resources]('https://github.com/newtoallofthis123/NSPlayer/blob/main/Assets/Sys_Resources.png')  
+![Minimal System Resources](https://github.com/newtoallofthis123/NSPlayer/blob/main/Assets/Sys_Resources.png)  
 The Raw python file has step by step explanation of all processes.  
 Hence, this can be used to learn python and makes NSPlayer a Beginner friendly project
 
