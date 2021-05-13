@@ -4,6 +4,8 @@
 
 NSPlayer uses pygame module to play songs. The graphic User Interface is written in tkinter which is a popular python module which is installed in the python library by deflaut.
 
+![NSPlayer]('https://github.com/newtoallofthis123/NSPlayer/blob/main/Assets/NSPlayer.png')
+
 I wrote NSPlayer on my journey to learn Python. You can view all my python projects at [`GitHub`]('https://github.com/newtoallofthis123/python_projects')
 
 NSPlayer is license under the [`MIT License`](https://mit-license.org/) which makes it open source. You are free to use it however you wish.
